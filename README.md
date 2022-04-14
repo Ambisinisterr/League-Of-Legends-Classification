@@ -21,8 +21,8 @@ After extensive EDA and Feature Engineering the final results of the model is:
 
 | Metric | Score |
 | ------ | ----- |
-| R2 | 0.964 |
-| F1 | 0.98 |
+| R2 | 0.964 ± 1.65% |
+| F1 | 99.1% ± 0.431% |
     
 | Metric | Score |
 | ------ | ----- |
